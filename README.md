@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Barokas94
-- 👀 I’m 
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on the plains of c#
-- 📫 How to 
 
 <!---
 Barokas94/Barokas94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
