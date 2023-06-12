@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Barokas94
-- 👀 I’m interested in not getting pizdi from Ignas
+- 👀 I’m 
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on the plains of c#
 - 📫 How to reach me through your mom
